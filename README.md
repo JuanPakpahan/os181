@@ -6,3 +6,5 @@ ZCZC W01 already tried demo
 ZCZC W02 done
 
 ZCZC W03 success
+
+ZCZC W04 sudah dicoba
