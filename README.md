@@ -12,3 +12,5 @@ ZCZC W04 sudah dicoba
 ZCZC W05 sukses
 
 ZCZC W06 read,done
+
+ZCZC W07 already tried demo
